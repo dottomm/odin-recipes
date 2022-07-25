@@ -17,7 +17,8 @@ padding: 3rem;
 }
 
 ol{
-    color:yellow;
+    color:white;
+    background-color: black;
 }
 
 ul{ color:brown;}
