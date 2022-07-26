@@ -1,9 +1,14 @@
 h1{
-color:red;
+color: white;
+background-color: red;
+padding: 2rem;
+font-size: 32px;
 }
 
 h2{
-color:green;
+color: white;
+background-color:green;
+padding: 2rem;
 }
 
 p{
